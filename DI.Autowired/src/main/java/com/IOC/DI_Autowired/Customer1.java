@@ -1,4 +1,4 @@
-package com.IOC.DI.Autowired;
+package com.IOC.DI_Autowired;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

@@ -1,9 +1,9 @@
-package com.IOC.DI.Autowired;
+package com.IOC.DI_Autowired;
 
 import org.springframework.stereotype.Component;
 
 @Component
-public class Customer2 {
+public class Customer3 {
 	private int id;
 	private String iname;
 	public int getId() {
@@ -20,7 +20,7 @@ public class Customer2 {
 	}
 	public void show()
 	{
-		System.out.println("customer2 i here");
+		System.out.println("customer3 i here");
 	}
 	
 }
