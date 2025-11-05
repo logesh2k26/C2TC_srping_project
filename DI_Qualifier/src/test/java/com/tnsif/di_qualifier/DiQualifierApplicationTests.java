@@ -1,10 +1,10 @@
-package com.tnsif.di_ioc_qualifier_project6;
+package com.tnsif.di_qualifier;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DiIocQualifierProject6ApplicationTests {
+class DiQualifierApplicationTests {
 
 	@Test
 	void contextLoads() {
