@@ -1,10 +1,10 @@
-package com.tnsif.restapi_project7;
+package com.tnsif.restapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestfulApiProject7ApplicationTests {
+class RestfulApiApplicationTests {
 
 	@Test
 	void contextLoads() {
